@@ -10,7 +10,7 @@
 	"excel",
 	"openoffice"
   ],
-  "homepage": "https://github.com/iandreyev/SpreadsheetReader",
+  "homepage": "https://github.com/iandreyev/SpreadsheetReader2",
   "version": "0.5.12",
   "time": "2019-09-01",
   "type": "library",
