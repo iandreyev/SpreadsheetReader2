@@ -1,0 +1,43 @@
+{
+  "name": "iandreyev/SpreadsheetReader",
+  "description": "Spreadsheet reader library for Excel, OpenOffice and structured text files. Mod of nuovo/spreadsheet-reader",
+  "keywords": [
+	"spreadsheet",
+	"xls",
+	"xlsx",
+	"ods",
+	"csv",
+	"excel",
+	"openoffice"
+  ],
+  "homepage": "https://github.com/iandreyev/SpreadsheetReader",
+  "version": "0.5.12",
+  "time": "2019-09-01",
+  "type": "library",
+  "license": [
+	"MIT"
+  ],
+  "authors": [
+	{
+	  "name": "Martins Pilsetnieks",
+	  "email": "pilsetnieks@gmail.com",
+	  "homepage": "http://www.nuovo.lv/"
+	},
+	{
+	  "name": "Vladislav Andreev",
+	  "email": "a.vladislav.g@gmail.com"
+	}
+  ],
+  "support": {
+	"email": "a.vladislav.g@gmail.com"
+  },
+  "require": {
+	"php": ">= 5.3.0",
+	"ext-zip": "*"
+  },
+  "autoload": {
+	"classmap": [
+	  "./"
+	]
+  }
+}
