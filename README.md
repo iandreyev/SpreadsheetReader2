@@ -6,6 +6,10 @@ So far XLSX, ODS and text/CSV file parsing should be memory-efficient. XLS file 
 from http://code.google.com/p/php-excel-reader/ which, sadly, has memory issues with bigger spreadsheets, as it reads the
 data all at once and keeps it all in memory.
 
+### Changes
+
+* Add function dumptoarray()
+
 ### Requirements:
 *  PHP 5.3.0 or newer
 *  PHP must have Zip file support (see http://php.net/manual/en/zip.installation.php)
